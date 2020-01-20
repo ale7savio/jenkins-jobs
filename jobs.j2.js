@@ -1,4 +1,4 @@
-job('job_dsl_example') {
+job('job_dsl_example_desde_git') {
     description('This is my awesome Job')
 }
 
